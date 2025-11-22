@@ -2,6 +2,8 @@
 
 Crabpocalypse is a chaotic platformer–RPG where a notoriously lazy college student is thrown into the unlikeliest of hero roles: stopping an army of hyper-intelligent mutant crabs from taking over the world. What begins as a normal day quickly spirals into an over-the-top clash of claws, comedy, and impending doom.
 
+This project was originally created some time ago and is now being uploaded to GitHub for preservation, reference, and potential future updates.
+
 The game blends fast platforming, light RPG progression, and absurd humor as you battle through waves of crustacean enemies, unlock upgrades, and chase down the source of the crab uprising. Whether you’re kicking crabs off ledges or pulling off last-second power-ups, Crabpocalypse is all about chaotic fun with just enough story to hold the world together.
 
 <h1> Controls </h1>
